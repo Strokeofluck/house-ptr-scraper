@@ -5868,6 +5868,17 @@
     <Last>Comer</Last>
     <First>James</First>
     <Suffix />
+    <FilingType>A</FilingType>
+    <StateDst>KY01</StateDst>
+    <Year>2025</Year>
+    <FilingDate>10/19/2026</FilingDate>
+    <DocID>10083052</DocID>
+  </Member>
+  <Member>
+    <Prefix>Hon.</Prefix>
+    <Last>Comer</Last>
+    <First>James</First>
+    <Suffix />
     <FilingType>O</FilingType>
     <StateDst>KY01</StateDst>
     <Year>2025</Year>
