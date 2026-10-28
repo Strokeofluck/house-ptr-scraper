@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-10-27T18:52:42+00:00",
-  "transactions": 27379,
-  "public_table_rows": 27379,
+  "updated_at": "2026-10-28T19:01:55+00:00",
+  "transactions": 27417,
+  "public_table_rows": 27417,
   "public_table_columns": 21,
-  "source_pdfs_accounted_for": 3167,
+  "source_pdfs_accounted_for": 3172,
   "fallback_pdfs": 482,
   "full_csv_filename": "house_ptr_transactions_latest.csv",
   "web_csv_filename": "house_ptr_transactions_web.csv"

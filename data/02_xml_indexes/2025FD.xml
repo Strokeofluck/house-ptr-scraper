@@ -973,6 +973,17 @@
     <Last>Arrington</Last>
     <First>Jodey</First>
     <Suffix />
+    <FilingType>A</FilingType>
+    <StateDst>TX19</StateDst>
+    <Year>2025</Year>
+    <FilingDate>10/27/2026</FilingDate>
+    <DocID>10083130</DocID>
+  </Member>
+  <Member>
+    <Prefix>Hon.</Prefix>
+    <Last>Arrington</Last>
+    <First>Jodey</First>
+    <Suffix />
     <FilingType>O</FilingType>
     <StateDst>TX19</StateDst>
     <Year>2025</Year>
@@ -29072,6 +29083,17 @@
     <Year>2025</Year>
     <FilingDate>5/14/2025</FilingDate>
     <DocID>10067871</DocID>
+  </Member>
+  <Member>
+    <Prefix>Hon.</Prefix>
+    <Last>Taylor</Last>
+    <First>David J.</First>
+    <Suffix />
+    <FilingType>A</FilingType>
+    <StateDst>OH02</StateDst>
+    <Year>2025</Year>
+    <FilingDate>10/27/2026</FilingDate>
+    <DocID>10083090</DocID>
   </Member>
   <Member>
     <Prefix>Hon.</Prefix>
