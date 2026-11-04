@@ -57,9 +57,9 @@
     },
     {
       "Year": 2026,
-      "House PTRs": 452,
-      "PDFs in Drive": 452,
-      "Matched": 452,
+      "House PTRs": 453,
+      "PDFs in Drive": 453,
+      "Matched": 453,
       "Missing": 0,
       "Extra": 0,
       "Parser flagged": 56,
@@ -68,8 +68,8 @@
     }
   ],
   "totals": {
-    "house_ptrs": 3182,
-    "pdfs_in_drive": 3182,
+    "house_ptrs": 3183,
+    "pdfs_in_drive": 3183,
     "missing": 0,
     "extra": 0,
     "parser_flagged": 485,

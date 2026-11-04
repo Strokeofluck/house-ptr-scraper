@@ -19329,6 +19329,17 @@
   </Member>
   <Member>
     <Prefix />
+    <Last>McClendon</Last>
+    <First>Alicia</First>
+    <Suffix />
+    <FilingType>W</FilingType>
+    <StateDst>CA00</StateDst>
+    <Year>2025</Year>
+    <FilingDate>11/3/2026</FilingDate>
+    <DocID>8162</DocID>
+  </Member>
+  <Member>
+    <Prefix />
     <Last>McClintock</Last>
     <First>Charlie</First>
     <Suffix />
@@ -26845,6 +26856,17 @@
     <Last>Scott</Last>
     <First>Austin</First>
     <Suffix />
+    <FilingType>A</FilingType>
+    <StateDst>GA08</StateDst>
+    <Year>2025</Year>
+    <FilingDate>11/3/2026</FilingDate>
+    <DocID>10083153</DocID>
+  </Member>
+  <Member>
+    <Prefix>Hon.</Prefix>
+    <Last>Scott</Last>
+    <First>Austin</First>
+    <Suffix />
     <FilingType>O</FilingType>
     <StateDst>GA08</StateDst>
     <Year>2025</Year>
@@ -27719,6 +27741,17 @@
     <Year>2025</Year>
     <FilingDate>9/22/2026</FilingDate>
     <DocID>10082922</DocID>
+  </Member>
+  <Member>
+    <Prefix />
+    <Last>Smith</Last>
+    <First>Ceretta</First>
+    <Suffix />
+    <FilingType>C</FilingType>
+    <StateDst>GA12</StateDst>
+    <Year>2025</Year>
+    <FilingDate>11/3/2026</FilingDate>
+    <DocID>10083178</DocID>
   </Member>
   <Member>
     <Prefix>Hon.</Prefix>
